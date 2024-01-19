@@ -6,3 +6,5 @@ This is a guide to setup Git and Github on Windows:
 4. Save the public key in your GitHub account settings (**Settings** > **SSH and GPG Keys** > **New SSH key**).
  
 # added new content
+
+Ciao a tutti come procede la vita? Spero bene! Ciao! 
